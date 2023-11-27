@@ -49,7 +49,7 @@
 "被人为磨碎的植物。
 如果与其他物质混合，可能可以用来制造药品。","Items.json,30,description"
 被磨碎的植物,"Items.json,30,name"
-能让枯萎植物的药物。,"Items.json,32,description"
+能让植物枯萎的药物。,"Items.json,32,description"
 除草剂,"Items.json,32,name"
 据说这颗宝石可以增强持有者的魔力。,"Items.json,33,description"
 水晶球,"Items.json,33,name"
