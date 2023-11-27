@@ -104,7 +104,7 @@
 强化火魔法,"Skills.json,38,name"
 "有智慧的植物所使用的技能。
 如舔舐猎物般地四处移动。","Skills.json,39,description"
-被藤蔓束缚住了！,"Skills.json,39,message1"
+藤蔓席卷而来！,"Skills.json,39,message1"
 拘束,"Skills.json,39,name"
 "将火力降至最低，调整到生活所需水平的火魔法。
 从干燥物品到取代火柴都能轻松自如的使用。","Skills.json,40,description"
@@ -112,7 +112,7 @@
 弱火魔法,"Skills.json,40,name"
 "轻轻触摸尾巴根。
 这应该是妖狐的一个弱点……？","Skills.json,41,description"
-触碰到大狐妖的尾巴根！,"Skills.json,41,message1"
+触碰到大妖狐的尾巴根！,"Skills.json,41,message1"
 轻轻捏一下尾骨！,"Skills.json,41,message2"
 触碰尾巴根部,"Skills.json,41,name"
 轻轻抚摸一处敏感区。,"Skills.json,43,description"
